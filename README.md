@@ -26,7 +26,7 @@ The dashboard provides insights into:
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Dashboard_View.png)
+![Dashboard](Blinkit_Dashboard.png)
 
 ## 📈 Key KPIs
 
